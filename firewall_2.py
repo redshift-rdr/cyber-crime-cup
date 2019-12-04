@@ -22,7 +22,7 @@ def timer(time_count, new_time=0):
         time.sleep(1)
         timer(time_count)
 
-api_key = 'kZ!agZ!Kef59xqCg!Gtds!nbuenPMCCGgL!!VR3y'
+api_key = 'ENTER KEY HERE'
 url = 'http://103.cybertrial.co.uk/login'
 
 proxies = {'http': 'http://68.183.35.11:3128'} 
